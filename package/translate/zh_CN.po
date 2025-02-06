@@ -18,81 +18,98 @@ msgstr ""
 #: ../metadata.json
 msgid "Kpple Menu"
 msgstr "Kpple Menu"
+msgstr "Kpple Menu"
 
 #: ../metadata.json
 msgid "The Kpple menu is a drop-down menu that is usually found on the left side of the menu bar."
+msgstr "Kpple Menu是一个下拉菜单，通常位于菜单栏的左侧。"
 msgstr "Kpple Menu是一个下拉菜单，通常位于菜单栏的左侧。"
 
 #: ../contents/config/config.qml
 msgid "General"
 msgstr "通用设置"
+msgstr "通用设置"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "Icon:"
+msgstr "图标"
 msgstr "图标"
 
 #: ../contents/ui/config/configGeneral.qml
 msgctxt "@action:button"
 msgid "Change Kpple Menu's icon"
 msgstr "更换菜单的图标"
+msgstr "更换菜单的图标"
 
 #: ../contents/ui/config/configGeneral.qml
 msgctxt "@info:whatsthis"
 msgid "Current icon is %1. Click to open menu to change the current icon or reset to the default icon."
+msgstr "当前图标是%1。点击打开菜单，可以更换当前图标或重置为默认图标。"
 msgstr "当前图标是%1。点击打开菜单，可以更换当前图标或重置为默认图标。"
 
 #: ../contents/ui/config/configGeneral.qml
 msgctxt "@info:tooltip"
 msgid "Icon name is \"%1\""
 msgstr "图标的名字是\"%1\"
+msgstr "图标的名字是\"%1\"
 
 #: ../contents/ui/config/configGeneral.qml
 msgctxt "@item:inmenu Open icon chooser dialog"
 msgid "Choose…"
+msgstr "选择…"
 msgstr "选择…"
 
 #: ../contents/ui/config/configGeneral.qml
 msgctxt "@info:whatsthis"
 msgid "Choose an icon for Application Launcher"
 msgstr "选择一个图标用于应用程序启动器"
+msgstr "选择一个图标用于应用程序启动器"
 
 #: ../contents/ui/config/configGeneral.qml
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Reset to default icon"
+msgstr "重置为默认图标"
 msgstr "重置为默认图标"
 
 #: ../contents/ui/config/configGeneral.qml
 msgctxt "@action:inmenu"
 msgid "Remove icon"
 msgstr "移除图标"
+msgstr "移除图标"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "Advanced Settings:"
-msgstr "进阶设置"
+msgstr "进阶设置:进阶设置"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "Show advanced mode"
+msgstr "显示进阶模式"
 msgstr "显示进阶模式"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "About This Computer :"
 msgstr "关于本机 :"
+msgstr "关于本机 :"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "kinfocenter"
+msgstr "kinfocenter"
 msgstr "kinfocenter"
 
 #: ../contents/ui/config/configGeneral.qml
 msgctxt "@action:button"
 msgid "Reset command"
 msgstr "重置命令"
+msgstr "重置命令"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "System Preferences :"
 msgstr "系统偏好设置 :"
+msgstr "系统偏好设置 :"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "systemsettings5"
+msgstr "systemsettings5"
 msgstr "systemsettings5"
 
 #: ../contents/ui/config/configGeneral.qml
@@ -102,6 +119,7 @@ msgstr "应用商店 :"
 #: ../contents/ui/config/configGeneral.qml
 msgid "plasma-discover"
 msgstr "plasma-discover"
+msgstr "plasma-discover"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "Sleep :"
@@ -109,6 +127,7 @@ msgstr "睡眠 :"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "systemctl suspend"
+msgstr "systemctl suspend"
 msgstr "systemctl suspend"
 
 #: ../contents/ui/config/configGeneral.qml
@@ -118,6 +137,7 @@ msgstr "重启 :"
 #: ../contents/ui/config/configGeneral.qml
 msgid "/sbin/reboot"
 msgstr "/sbin/reboot"
+msgstr "/sbin/reboot"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "Shut Down :"
@@ -125,6 +145,7 @@ msgstr "关机 :"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "/sbin/shutdown now"
+msgstr "/sbin/shutdown now"
 msgstr "/sbin/shutdown now"
 
 #: ../contents/ui/config/configGeneral.qml
@@ -134,6 +155,7 @@ msgstr "锁屏 :"
 #: ../contents/ui/config/configGeneral.qml
 msgid "qdbus org.freedesktop.ScreenSaver /ScreenSaver Lock"
 msgstr "qdbus org.freedesktop.ScreenSaver /ScreenSaver Lock"
+msgstr "qdbus org.freedesktop.ScreenSaver /ScreenSaver Lock"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "Log Out :"
@@ -142,13 +164,16 @@ msgstr "注销:"
 #: ../contents/ui/config/configGeneral.qml
 msgid "qdbus org.kde.ksmserver /KSMServer logout 0 0 0"
 msgstr "qdbus org.kde.ksmserver /KSMServer logout 0 0 0"
+msgstr "qdbus org.kde.ksmserver /KSMServer logout 0 0 0"
 
 #: ../contents/ui/main.qml
 msgid "Shortcuts for shutdown,reboot,logout, settings etc."
 msgstr "关闭、重启、登出、设置等快捷方式。"
+msgstr "关闭、重启、登出、设置等快捷方式。"
 
 #: ../contents/ui/main.qml
 msgid "About This Computer"
+msgstr "关于本机"
 msgstr "关于本机"
 
 #: ../contents/ui/main.qml
